@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [JobHub](https://github.com/rohitsingh2901/jobhub)
+- 🔭 I’m currently working on [CloudNotebook](https://github.com/rohitsingh2901/CloudNotebook)
 
 - 🌱 I’m currently learning **MERN Stack development framework**
 
